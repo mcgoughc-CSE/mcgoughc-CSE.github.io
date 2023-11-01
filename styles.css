@@ -22,7 +22,7 @@ h1 {
     border: 2px solid midnightblue;
 }
 
-a {
+a:hover {
     text-decoration: none;
     color: slategray;
 }
