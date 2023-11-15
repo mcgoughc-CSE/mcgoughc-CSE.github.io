@@ -2,6 +2,7 @@ body {
     background-color: slategray;
     font-family: Times New Roman;
     display: flex;
+    flex-wrap: wrap;
 }
 
 h1 {
