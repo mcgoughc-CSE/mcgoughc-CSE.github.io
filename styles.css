@@ -1,23 +1,29 @@
 body {
     background-color: slategray;
     font-family: Times New Roman;
+    display: flex;
 }
 
 h1 {
     color: deepskyblue;
     text-align: center;
+    width: 100%;
+}
+
+h1:hover {
+    color: black;
+    text-align: center;
+    width: 100%;
 }
 
 .assign{
     margin: 10px;
     padding: 10px;
     background-color: deepskyblue;
-    display: flex;
+    display: block;
     border-radius: 20px;
     width: 20%;
     box-shadow: 8px 8px black;
-    border-radius: 10px;
-    display: block;
 }
 
 .assign img {
